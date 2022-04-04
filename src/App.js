@@ -6,11 +6,13 @@ import Dashboard from './component/Dashboard/Dashboard'
 import Blogs from './component/Blogs/Blogs'
 import About from './component/About/About'
 import NotFound from './component/NotFound/NotFound';
+import Navbar from './component/Navbar/Navbar';
 
 
 function App() {
   return (
     <div className="App">
+      <Navbar></Navbar>
     <Routes>
       <Route path="/" element={<Home/>}></Route>
       <Route path="/home" element={<Home/>}></Route>

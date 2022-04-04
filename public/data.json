@@ -1,0 +1,65 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Luna Lovegood",
+      "ratings": 4.20,
+      "opinion" : "This lamp is so good. I was looking for this lamp since 2 years and got one few days ago. I would like to recommend everyone to buy NECK-BEND-LAMP.", 
+      "img": "https://miro.medium.com/max/470/1*mq3-z1OCFEoIfUWicAHc-A.jpeg"
+    },
+    {
+      "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+      "name": "Harry Potter",
+      "ratings": 1.9,
+      "opinion": "I am very disappointed after buying this lamp. The service is very bad. The battery backup is also bad. I had to cast the lumos spell for whole night. I wouldn't like to tell anyone to buy ORGANIC-TABLE-LAMP.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Harry_Potter_character_poster.jpg/220px-Harry_Potter_character_poster.jpg"
+    },
+    {
+      "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+      "name": "Severus Snape",
+      "ratings": 4.5,
+      "opinion": "Very much amused after using this CLASSIC-DESK-LAMP. Impressive battery backup and very soft light. I guess it also protects my eyes.",
+      "img": "https://images.ctfassets.net/usf1vwtuqyxm/4TVCEQEv0AUw828O6kUyeS/e1a2539254e2184bc855b42c806fe2aa/SeverusSnape_WB_F8_HeadshotOfSnapeLookingSideways_Still_080615_Land.jpg?fm=jpg&q=70&w=2560"
+    },
+    {
+      "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+      "name": "Hermione Granger",
+      "ratings": 4.9,
+      "opinion": "Honestly guys, this FLOWER-COATED-LAMP is making me crazy. Like i am having the 1000 cd as the luminous intensity which is helping me to use the full 576 mega pixel of my eyes. I wish I could gift everyone this lamp.",
+      "img": "https://i.insider.com/597b9cfe232dfa34008b46c8?width=700"
+    },
+    {
+      "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      "name": "Ronald Weasley",
+      "ratings": 2.8,
+      "opinion": "An average qualityful Lamp. Neither bad nor good. Anyone can have the POLAR-TABLE-LAMP if they want.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJzn5deu6oWH8XFmsGEfQzYAPn_BJA_-uVzw&usqp=CAU"
+    },
+    {
+      "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+      "name": "Lord Voldemort",
+      "ratings": 4.00,
+      "opinion": "Well, I might not say that buying CLOUDY-BODY-LAMP is a bad choice. The outlook is good but one thing I am always conscious about is the performance. And yet I am satisfy with the performance.",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Lordvoldemort.jpg"
+    },
+    {
+      "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+      "name": "Albus Dumbledore",
+      "ratings": 4.6,
+      "opinion": " Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. FLAT-HEADED-LAMP always reminds me that line. Yes, I am very much satisfied with the service.",
+      "img": "https://www.harrypotterfansclub.com/wp-content/uploads/albus-dumbledore-fictional-characters-wiki-fandom.jpeg"
+    },
+    {
+      "id": "c9d1f410-d28f-49d9-9b01-d759b5acbeea",
+      "name": "Draco Malfoy",
+      "ratings": 3.9,
+      "opinion": "STAIRCASED-LAMP is one of the beauty I have ever used. I will always use this lamp. And my father will definitely hear about this and he will also buy it.",
+      "img": "https://fandomwire.com/wp-content/uploads/2022/02/d7718ab0f14ae75ccc3a3838cdae16aa.jpg"
+    },
+    {
+      "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+      "name": "Remus Lupin",
+      "ratings": 4.6,
+      "opinion": "This lamp always reminds me of moon lit night. It is a great pleasure for me to enjoy the moon light while I am in my room. The service is also very satisfying.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCYF7d2IYVsZ36YZZAMPc16Z0C2whC7D9saw&usqp=CAU"
+     
+    }]

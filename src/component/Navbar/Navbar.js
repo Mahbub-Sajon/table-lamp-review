@@ -1,15 +1,15 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import CustomLink from '../CustomLink/CustomLink';
 
 const Navbar = () => {
     return (
         <div>
-            <nav>
-                <Link to="/">HOME</Link>
-                <Link to="/reviews">REVIEWS</Link>
-                <Link to="/dashboard">DASHBOARD</Link>
-                <Link to="/blogs">BLOGS</Link>
-                <Link to="/about">ABOUT</Link>
+            <nav className='d-flex'>
+                <CustomLink to="/">HOME</CustomLink>
+                <CustomLink to="/reviews">REVIEWS</CustomLink>
+                <CustomLink to="/dashboard">DASHBOARD</CustomLink>
+                <CustomLink to="/blogs">BLOGS</CustomLink>
+                <CustomLink to="/about">ABOUT</CustomLink>
             </nav>
         </div>
     );

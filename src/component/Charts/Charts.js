@@ -1,18 +1,19 @@
 import React from 'react';
 import useCharts from '../../hooks/useCharts';
 import Chart from '../Chart/Chart';
+import SimpleBarChart from '../SimpleBarChart/SimpleBarChart';
 
 const Charts = () => {
     const [charts, setCharts] = useCharts();
     return (
         <div>
-            {
-                charts.map(chart => 
                 <Chart
-                key  = {chart.id}
-                chart = {chart}
-                ></Chart>)
-            }
+                chart = {charts}
+                ></Chart>
+                <SimpleBarChart
+                chart = {charts}
+                ></SimpleBarChart>
+               
         </div>
     );
 };

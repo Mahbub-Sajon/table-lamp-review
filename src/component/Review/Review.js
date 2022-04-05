@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Review = (props) => {
-    const {name, img, ratings, opinion} = props.user;
+    const {name, img, ratings, opinion} = props.review;
     return (
         <div>
             <h1>Name: {name}</h1>

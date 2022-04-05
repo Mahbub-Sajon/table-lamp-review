@@ -3,16 +3,16 @@ import Review from '../Review/Review';
 
 
 const Reviews = () => {
-   const [reviews, setReviews] = useReviews();
+    const [reviews, setReviews] = useReviews();
     return (
         <div>
-            <h1>Our Happy Customers Say</h1>
-            {
+            <h1 className='text-3xl font-bold pb-4'>Our Happy Customers Say</h1>
+            <div className='grid md:grid-cols-3 mb-10 gap-6'> {
                 reviews.map(review => <Review
-                key = {review.id}
-                review = {review} 
+                    key={review.id}
+                    review={review}
                 ></Review>)
-            }
+            }</div>
         </div>
     );
 };

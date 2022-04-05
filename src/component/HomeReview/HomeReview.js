@@ -3,11 +3,11 @@ import React from 'react';
 const HomeReview = (props) => {
     const {name, img, ratings, opinion} = props.review;
     return (
-        <div>
-            <h1>Name: {name}</h1>
-            <img src={img} alt="" />
-            <h4>Ratings: {ratings}</h4>
-            <p>Review of the customer: {opinion}</p>
+        <div className='border-2 border-lime-800 rounded-lg p-2'>
+            <img className='w-full h-80 rounded-lg' src={img} alt="" />
+            <h1> <span className='font-bold'>Name:</span>  {name}</h1>
+            <h4> <span className='font-bold'>Ratings:</span> {ratings}</h4>
+            <p><span className='font-bold'>Review of the customer:</span> {opinion}</p>
         </div>
     );
 };

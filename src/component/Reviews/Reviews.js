@@ -10,8 +10,7 @@ const Reviews = () => {
             {
                 reviews.map(review => <Review
                 key = {review.id}
-                review = {review}
-                
+                review = {review} 
                 ></Review>)
             }
         </div>

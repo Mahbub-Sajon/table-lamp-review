@@ -6,10 +6,11 @@ import SimpleBarChart from '../SimpleBarChart/SimpleBarChart';
 const Charts = () => {
     const [charts, setCharts] = useCharts();
     return (
-        <div>
+        <div className='grid md:grid-cols-2 gap-5 justify-between '>
                 <Chart
                 chart = {charts}
                 ></Chart>
+
                 <SimpleBarChart
                 chart = {charts}
                 ></SimpleBarChart>

@@ -6,7 +6,7 @@ const Chart = (props) => {
 
     return (
         
-            <LineChart width={400} height={500} data={props.chart}>
+            <LineChart width={500} height={500} data={props.chart}>
                 <Line type={'monotone'} dataKey={'investment'}></Line>
                 <Line type={'monotone'} dataKey={'sell'}></Line>
                 <Line type={'monotone'} dataKey={'revenue'}></Line>
